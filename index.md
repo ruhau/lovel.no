@@ -14,12 +14,9 @@ Lovel utfører alle typer elektriske tjenester i hus og hytte:
 - Varme
 - Nybygg, rehabilitering, utvidelser osv...
 
-Ta gjerne kontakt for en hyggelig samtale.
+Ta gjerne kontakt for en hyggelig samtale, eller [se vår prisliste](priser).
 
 # Fordeler med å bruke Lovel
-Alt arbeid foregår på kveld og helger. Det gjør at du som kunde slipper å ta deg fri fra jobb, samt at det er lettere for deg å være tilstede under arbeidet.
+Større fleksibilitet med tanke på befaring, som gjør at man slipper å ta seg fri fra jobb. Grundig gjennomgang på forhånd kan tas på kveldstid.
 
-- Slipper å ta seg fri fra jobb
-- Mer delaktig i avgjørelsene og løsningene, siden du er tilstede
-- Mindre sjanser for misforståelser, siden du er tilstede
-- Kan hjelpe til med grovarbeidet, og dermed spare tid og penger
+Lovel oppfordrer til deltakelse fra kunden. På denne måten kan man lære mer og få en forståelse for valgene som er gjort. Dette gjør at man sparer tid og penger, og fører til høyere kvalitet.

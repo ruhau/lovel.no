@@ -5,3 +5,17 @@
 .site-nav {
   line-height: 80px;
 }
+table {
+  width: 100%;
+}
+table th {
+  text-align: left;
+  font-weight: bold;
+}
+strong {
+  font-weight: bold;
+}
+h4 {
+  margin-top: 2em;
+  font-weight: bold;
+}
