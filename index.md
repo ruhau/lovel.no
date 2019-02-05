@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ignore
+title: Lovel Elektro
 ---
 
 # Hva Lovel utfører
