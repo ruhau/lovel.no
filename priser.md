@@ -9,13 +9,14 @@ Alle priser er inkludert moms.
 **Timespris:** 1000,-
 
 Ingen tillegg for oppmøte servicebil osv.<br>
-200 kr/t ekstra når kunden leverer utstyret selv.
+200 kr/t ekstra når kunden leverer utstyret selv.<br>
+450 kr startpris
 
 <br><br>
 
 ### Fastpriser
 
-#### Ny kurs: *4 500,-*
+#### Ny kurs: *6 000,-*
 
 Vi har vel alle mange ganger ønsket oss en ekstra stikkontakt og/eller sikring. Her er muligheten til å bestille nettopp dette ferdig montert, lengde inntil 15m fra sikringsskapet til stikkontakt, og det er inklusiv både sikring og stikkontakt!
 
