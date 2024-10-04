@@ -6,13 +6,13 @@ permalink: /priser/
 
 Alle priser er inkludert moms.
 
-**Timespris standard:** 1125,-
-<br>**325 kr/t** ekstra når kunden leverer utstyret selv.<br>
+**Timespris standard:** 1200,-
+<br>**30%** ekstra når kunden leverer utstyret selv.<br>
 
 
 **500 kr** startpris pr oppdrag<br>
-**750 kr** melding til Everk/DLE<br>
-**1200 kr** tillegg for utrykning utenfor normal arbeidstid
+**1200 kr** melding til Everk/DLE<br>
+**1500 kr** tillegg for utrykning utenfor normal arbeidstid
 
 Ingen andre tillegg som kilometergodtgjørelse, servicebil, bom, parkering osv.
 
